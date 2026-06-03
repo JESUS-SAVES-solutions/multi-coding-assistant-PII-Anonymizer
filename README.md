@@ -1,4 +1,4 @@
-# Multi-Coding Assistant — PII Anonymizer
+# Multi-Coding Assistant — PII Anonymizer - Skill
 
 A Claude skill that acts as a full development advisor for building PII (Personally
 Identifiable Information) anonymization systems — from architecture and code generation
